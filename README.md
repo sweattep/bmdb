@@ -1,4 +1,9 @@
 # bmdb
+## Schema
+- Meme
+- Gene
+- Scene
+  
 ## Format
 ```
 timeline_quotes:
