@@ -1,0 +1,5 @@
+Problem:
+Search is not granular enough
+
+Solution:
+Filter those sites for black movies, order by release date, and make a search engine
